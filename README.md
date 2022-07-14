@@ -4,3 +4,7 @@ _________________________________________________________
 
 # Santander Code Girls #
 ## Desafios dos Bootcamps da Digital Innovation One #
+
+Aqui você vai encontrar todos os desafios dos bootcamps que realizei da Digital Innovation One - Santander Code Girls
+
+Os códigos estão rodando normalmente na plataforma da DIO.
